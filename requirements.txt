@@ -1,0 +1,6 @@
+semantic-kernel
+azure-ai-formrecognizer
+azure-core
+typing-extensions
+python-dotenv
+tiktoken # Optional: for better token counting
